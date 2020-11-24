@@ -1,0 +1,3 @@
+task1="Hi,This is Charishma"
+x=task1.casefold()
+print(x[1:])
